@@ -1,0 +1,23 @@
+{
+  "name": "linter-check",
+  "version": "1.0.0",
+  "description": "set of check to block PR before merging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurlailasari/linter-check.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurlailasari/linter-check/issues"
+  },
+  "homepage": "https://github.com/nurlailasari/linter-check#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "twilio": "^5.4.0"
+  }
+}
